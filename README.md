@@ -18,7 +18,7 @@ on GitHub
 
 (with Chrome Tab selected / active)
 
-Ctrl B - To File Tree (on left side of Window)
+Ctrl B - To (toggle) open / close File Tree (on left side of Window)
 
 ____
 
