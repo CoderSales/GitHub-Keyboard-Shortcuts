@@ -24,9 +24,9 @@ ____
 
 Go to any main Repository Page
 
-. (Press full stop / period (beside comma)) - To go to VSCode in Chrome (assuming VSCode is Selected as Default IDE (Integrated Developer Environment))
+. (Press full stop / dot / period (beside comma)) - To go to VSCode in Chrome (assuming VSCode is Selected as Default IDE (Integrated Developer Environment))
 ____
 
 ## References
 
-
+[docs.github.com > Get Started > Accessibility > Keyboard Shortcuts](https://docs.github.com/en/get-started/accessibility/keyboard-shortcuts)
